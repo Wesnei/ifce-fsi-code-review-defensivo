@@ -1,7 +1,7 @@
 {
   "name": "banco-exemplo-api-legado",
   "version": "1.3.0",
-  "description": "API legada do Banco Exemplo - LABORATORIO DE SEGURANCA (uso didatico)",
+  "description": "API legada do Banco Exemplo - laboratório didático de segurança",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
